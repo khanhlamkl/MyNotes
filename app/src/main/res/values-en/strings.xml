@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyNotes</string>
+    <string name="MyNotes">MyNotes</string>
+    <string name="ThemGhiChu">Add notes"</string>
+    <string name="NhapTieuDe">Enter a title</string>
+    <string name="NhapNoiDung">Enter the text of the note</string>
+    <string name="DongYThemGhiChu">Agree to add notes</string>
+    <string name="CapNhatGhiChu">Update notes</string>
+    <string name="ThemThanhCong">Add success</string>
+    <string name="ThemThatBai">Add failed</string>
+    <string name="CapNhatThanhCong">Update successful</string>
+    <string name="CapNhatThatBai">Update failed</string>
+    <string name="ThongBao">Notification</string>
+    <string name="XoaAlertDialog">Are you sure you want to delete</string>
+    <string name="ChuaXoa">Not deleted</string>
+    <string name="XoaThanhCong">Delete success</string>
+    <string name="XoaThatBai">Delete failed</string>
+    <string name="TimKiem">Type here to search</string>
+    <string name="DongY">OK</string>
+    <string name="Thoat">Cancel</string>
+</resources>

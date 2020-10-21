@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyNotes</string>
+    <string name="MyNotes">MyNotes</string>
+    <string name="ThemGhiChu">Thêm ghi chú"</string>
+    <string name="NhapTieuDe">Nhập tiêu đề</string>
+    <string name="NhapNoiDung">Nhập nội dung ghi chú</string>
+    <string name="DongYThemGhiChu">Đồng ý thêm ghi chú</string>
+    <string name="ThemThanhCong">Thêm thành công</string>
+    <string name="ThemThatBai">Thêm thất bại</string>
+    <string name="CapNhatThanhCong">Cập nhật thành công</string>
+    <string name="CapNhatThatBai">Cập nhật thất bại</string>
+    <string name="ThongBao">Thông báo</string>
+    <string name="XoaAlertDialog">Bạn có chắc chắn muốn xóa không</string>
+    <string name="ChuaXoa">Chưa xóa</string>
+    <string name="XoaThanhCong">Xóa thành công</string>
+    <string name="XoaThatBai">Xóa thất bại</string>
+    <string name="TimKiem">Tìm kiếm</string>
+    <string name="CapNhatGhiChu">Cập nhật ghi chú</string>
+    <string name="DongY">Đồng ý</string>
+    <string name="Thoat">Thoát</string>
+</resources>

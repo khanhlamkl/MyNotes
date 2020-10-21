@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.MainActivity"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolBarCreate"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorToolbar"
+        app:title="@string/ThemGhiChu"
+        app:titleTextColor="@color/colorWhite" />
+
+    <EditText
+        android:id="@+id/edtTitleCreate"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="@string/NhapTieuDe"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:padding="10dp"
+        android:background="@android:color/transparent" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorView" />
+
+    <EditText
+        android:id="@+id/edtContentCreate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/NhapNoiDung"
+        android:background="@android:color/transparent"
+        android:padding="10dp"
+        />
+
+
+
+</LinearLayout>
